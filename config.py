@@ -3,7 +3,7 @@ USERNAME = 'sayeedkhan@vouk.ml'
 PASSWORD = '5@yeed@fr1d15h@'
 
 COURSES = [
-	'ruby-on-rails-5-essential-training',
+	#'ruby-on-rails-5-essential-training',
 	#'vue-js-building-an-interface',
 	#'vue-js-for-web-designers',
     #'learning-vue-js-3',
