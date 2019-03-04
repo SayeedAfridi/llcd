@@ -1,6 +1,5 @@
 #!/usr/bin/python
-USERNAME = 'sayeedkhan@vouk.ml'
-PASSWORD = '5@yeed@fr1d15h@'
+
 
 COURSES = [
     #'advanced-linux-the-linux-kernel',
