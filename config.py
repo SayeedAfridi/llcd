@@ -1,7 +1,20 @@
 #!/usr/bin/python
 
+USERNAME = ''
+PASSWORD = ''
 
 COURSES = [
+	
+
+	#'learning-django',
+	#'django-forms',
+	#'building-a-personal-portfolio-with-django',
+	#'building-a-paid-membership-site-with-django',
+	#'building-restful-web-apis-with-django',
+	#'test-driven-development-in-django',
+	#'deploying-django-apps-make-your-site-go-live',
+
+	#'programming-foundations-web-services',
     #'advanced-linux-the-linux-kernel',
 	#'ruby-on-rails-5-essential-training',
 	#'vue-js-building-an-interface',
@@ -80,9 +93,9 @@ COURSES = [
     # 'learning-php-2',
     # 'php-essential-training-2',
     # 'node-js-essential-training'
-    #done'installing-apache-mysql-and-php-2'
-    #done'learning-bash-scripting'
-    #'charlene-li-on-digital-leadership',
+    # 'installing-apache-mysql-and-php-2'
+    # 'learning-bash-scripting'
+    # 'charlene-li-on-digital-leadership',
     # 'fred-kofman-on-managing-conflict',
     # 'reid-hoffman-and-chris-yeh-on-creating-an-alliance-with-employees',
     # 'bill-george-on-self-awareness-authenticity-and-leadership',
